@@ -1,0 +1,10 @@
+GET http://localhost:3006/posts
+
+###
+
+POST http://localhost:3006/login
+Content-Type: application/json
+
+{
+    username : "Abhishek"
+}
